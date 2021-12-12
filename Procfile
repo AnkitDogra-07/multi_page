@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run cesus.py
+web: sh setup.sh && streamlit run census.py
